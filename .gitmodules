@@ -38,11 +38,6 @@
 	url = https://github.com/modeloriented/eix
 	shallow = true
 	registered = true
-[submodule "factorMerger"]
-	path = factorMerger
-	url = https://github.com/modeloriented/factormerger
-	shallow = true
-	registered = true
 [submodule "fairmodels"]
 	path = fairmodels
 	url = https://github.com/modeloriented/fairmodels
