@@ -28,6 +28,10 @@
     "oncran": true
   },
   {
+    "package": "factorMerger",
+    "oncran": true
+  },
+  {
     "package": "fairmodels",
     "oncran": true
   },
