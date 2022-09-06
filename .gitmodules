@@ -88,6 +88,11 @@
 	url = https://github.com/modeloriented/shapper
 	shallow = true
 	registered = true
+[submodule "survex"]
+	path = survex
+	url = https://github.com/modeloriented/survex
+	shallow = true
+	registered = true
 [submodule "triplot"]
 	path = triplot
 	url = https://github.com/modeloriented/triplot

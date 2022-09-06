@@ -68,6 +68,10 @@
     "oncran": true
   },
   {
+    "package": "survex",
+    "oncran": true
+  },
+  {
     "package": "triplot",
     "oncran": true
   },
