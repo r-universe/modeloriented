@@ -78,9 +78,5 @@
   {
     "package": "vivo",
     "oncran": true
-  },
-  {
-    "package": "xspliner",
-    "oncran": true
   }
 ]
