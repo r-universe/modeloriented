@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "drifter",
+    "oncran": true
+  },
+  {
     "package": "EIX",
     "oncran": true
   },
@@ -29,6 +33,18 @@
   },
   {
     "package": "iBreakDown",
+    "oncran": true
+  },
+  {
+    "package": "ingredients",
+    "oncran": true
+  },
+  {
+    "package": "live",
+    "oncran": true
+  },
+  {
+    "package": "localModel",
     "oncran": true
   },
   {
