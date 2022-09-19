@@ -28,11 +28,6 @@
 	url = https://github.com/modeloriented/dalextra
 	shallow = true
 	registered = true
-[submodule "drifter"]
-	path = drifter
-	url = https://github.com/modeloriented/drifter
-	shallow = true
-	registered = true
 [submodule "EIX"]
 	path = EIX
 	url = https://github.com/modeloriented/eix
@@ -46,21 +41,6 @@
 [submodule "iBreakDown"]
 	path = iBreakDown
 	url = https://github.com/modeloriented/ibreakdown
-	shallow = true
-	registered = true
-[submodule "ingredients"]
-	path = ingredients
-	url = https://github.com/modeloriented/ingredients
-	shallow = true
-	registered = true
-[submodule "live"]
-	path = live
-	url = https://github.com/modeloriented/live
-	shallow = true
-	registered = true
-[submodule "localModel"]
-	path = localModel
-	url = https://github.com/modeloriented/localmodel
 	shallow = true
 	registered = true
 [submodule "modelDown"]
