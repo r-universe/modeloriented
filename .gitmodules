@@ -3,89 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "modelDown"]
-	path = modelDown
-	url = https://github.com/modeloriented/modeldown
-	shallow = true
-	registered = true
-[submodule "survex"]
-	path = survex
-	url = https://github.com/modeloriented/survex
-	shallow = true
-	registered = true
-[submodule "fairmodels"]
-	path = fairmodels
-	url = https://github.com/modeloriented/fairmodels
-	shallow = true
-	registered = true
-[submodule "vivo"]
-	path = vivo
-	url = https://github.com/modeloriented/vivo
-	shallow = true
-	registered = true
-[submodule "modelStudio"]
-	path = modelStudio
-	url = https://github.com/modeloriented/modelstudio
-	shallow = true
-	registered = true
-[submodule "ingredients"]
-	path = ingredients
-	url = https://github.com/modeloriented/ingredients
-	shallow = true
-	registered = true
-[submodule "drifter"]
-	path = drifter
-	url = https://github.com/modeloriented/drifter
-	shallow = true
-	registered = true
-[submodule "iBreakDown"]
-	path = iBreakDown
-	url = https://github.com/modeloriented/ibreakdown
-	shallow = true
-	registered = true
-[submodule "localModel"]
-	path = localModel
-	url = https://github.com/modeloriented/localmodel
-	shallow = true
-	registered = true
-[submodule "DALEX"]
-	path = DALEX
-	url = https://github.com/modeloriented/dalex
-	shallow = true
-	registered = true
-[submodule "corrgrapher"]
-	path = corrgrapher
-	url = https://github.com/modeloriented/corrgrapher
-	shallow = true
-	registered = true
-[submodule "triplot"]
-	path = triplot
-	url = https://github.com/modeloriented/triplot
-	shallow = true
-	registered = true
-[submodule "kernelshap"]
-	path = kernelshap
-	url = https://github.com/modeloriented/kernelshap
-	shallow = true
-	registered = true
-[submodule "EIX"]
-	path = EIX
-	url = https://github.com/modeloriented/eix
-	shallow = true
-	registered = true
-[submodule "shapper"]
-	path = shapper
-	url = https://github.com/modeloriented/shapper
-	shallow = true
-	registered = true
-[submodule "DALEXtra"]
-	path = DALEXtra
-	url = https://github.com/modeloriented/dalextra
-	shallow = true
-	registered = true
-[submodule "rSAFE"]
-	path = rSAFE
-	url = https://github.com/modeloriented/rsafe
+[submodule "arenar"]
+	path = arenar
+	url = https://github.com/modeloriented/arenar
 	shallow = true
 	registered = true
 [submodule "auditor"]
@@ -93,9 +13,49 @@
 	url = https://github.com/modeloriented/auditor
 	shallow = true
 	registered = true
-[submodule "randomForestExplainer"]
-	path = randomForestExplainer
-	url = https://github.com/modeloriented/randomforestexplainer
+[submodule "corrgrapher"]
+	path = corrgrapher
+	url = https://github.com/modeloriented/corrgrapher
+	shallow = true
+	registered = true
+[submodule "DALEX"]
+	path = DALEX
+	url = https://github.com/modeloriented/dalex
+	shallow = true
+	registered = true
+[submodule "DALEXtra"]
+	path = DALEXtra
+	url = https://github.com/modeloriented/dalextra
+	shallow = true
+	registered = true
+[submodule "drifter"]
+	path = drifter
+	url = https://github.com/modeloriented/drifter
+	shallow = true
+	registered = true
+[submodule "EIX"]
+	path = EIX
+	url = https://github.com/modeloriented/eix
+	shallow = true
+	registered = true
+[submodule "fairmodels"]
+	path = fairmodels
+	url = https://github.com/modeloriented/fairmodels
+	shallow = true
+	registered = true
+[submodule "iBreakDown"]
+	path = iBreakDown
+	url = https://github.com/modeloriented/ibreakdown
+	shallow = true
+	registered = true
+[submodule "ingredients"]
+	path = ingredients
+	url = https://github.com/modeloriented/ingredients
+	shallow = true
+	registered = true
+[submodule "kernelshap"]
+	path = kernelshap
+	url = https://github.com/modeloriented/kernelshap
 	shallow = true
 	registered = true
 [submodule "live"]
@@ -103,8 +63,48 @@
 	url = https://github.com/modeloriented/live
 	shallow = true
 	registered = true
-[submodule "arenar"]
-	path = arenar
-	url = https://github.com/modeloriented/arenar
+[submodule "localModel"]
+	path = localModel
+	url = https://github.com/modeloriented/localmodel
+	shallow = true
+	registered = true
+[submodule "modelDown"]
+	path = modelDown
+	url = https://github.com/modeloriented/modeldown
+	shallow = true
+	registered = true
+[submodule "modelStudio"]
+	path = modelStudio
+	url = https://github.com/modeloriented/modelstudio
+	shallow = true
+	registered = true
+[submodule "randomForestExplainer"]
+	path = randomForestExplainer
+	url = https://github.com/modeloriented/randomforestexplainer
+	shallow = true
+	registered = true
+[submodule "rSAFE"]
+	path = rSAFE
+	url = https://github.com/modeloriented/rsafe
+	shallow = true
+	registered = true
+[submodule "shapper"]
+	path = shapper
+	url = https://github.com/modeloriented/shapper
+	shallow = true
+	registered = true
+[submodule "survex"]
+	path = survex
+	url = https://github.com/modeloriented/survex
+	shallow = true
+	registered = true
+[submodule "triplot"]
+	path = triplot
+	url = https://github.com/modeloriented/triplot
+	shallow = true
+	registered = true
+[submodule "vivo"]
+	path = vivo
+	url = https://github.com/modeloriented/vivo
 	shallow = true
 	registered = true

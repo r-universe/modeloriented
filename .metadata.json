@@ -1,70 +1,6 @@
 [
   {
-    "package": "modelDown",
-    "oncran": true
-  },
-  {
-    "package": "survex",
-    "oncran": true
-  },
-  {
-    "package": "fairmodels",
-    "oncran": true
-  },
-  {
-    "package": "vivo",
-    "oncran": true
-  },
-  {
-    "package": "modelStudio",
-    "oncran": true
-  },
-  {
-    "package": "ingredients",
-    "oncran": true
-  },
-  {
-    "package": "drifter",
-    "oncran": true
-  },
-  {
-    "package": "iBreakDown",
-    "oncran": true
-  },
-  {
-    "package": "localModel",
-    "oncran": true
-  },
-  {
-    "package": "DALEX",
-    "oncran": true
-  },
-  {
-    "package": "corrgrapher",
-    "oncran": true
-  },
-  {
-    "package": "triplot",
-    "oncran": true
-  },
-  {
-    "package": "kernelshap",
-    "oncran": true
-  },
-  {
-    "package": "EIX",
-    "oncran": true
-  },
-  {
-    "package": "shapper",
-    "oncran": true
-  },
-  {
-    "package": "DALEXtra",
-    "oncran": true
-  },
-  {
-    "package": "rSAFE",
+    "package": "arenar",
     "oncran": true
   },
   {
@@ -72,7 +8,39 @@
     "oncran": true
   },
   {
-    "package": "randomForestExplainer",
+    "package": "corrgrapher",
+    "oncran": true
+  },
+  {
+    "package": "DALEX",
+    "oncran": true
+  },
+  {
+    "package": "DALEXtra",
+    "oncran": true
+  },
+  {
+    "package": "drifter",
+    "oncran": true
+  },
+  {
+    "package": "EIX",
+    "oncran": true
+  },
+  {
+    "package": "fairmodels",
+    "oncran": true
+  },
+  {
+    "package": "iBreakDown",
+    "oncran": true
+  },
+  {
+    "package": "ingredients",
+    "oncran": true
+  },
+  {
+    "package": "kernelshap",
     "oncran": true
   },
   {
@@ -80,7 +48,39 @@
     "oncran": true
   },
   {
-    "package": "arenar",
+    "package": "localModel",
+    "oncran": true
+  },
+  {
+    "package": "modelDown",
+    "oncran": true
+  },
+  {
+    "package": "modelStudio",
+    "oncran": true
+  },
+  {
+    "package": "randomForestExplainer",
+    "oncran": true
+  },
+  {
+    "package": "rSAFE",
+    "oncran": true
+  },
+  {
+    "package": "shapper",
+    "oncran": true
+  },
+  {
+    "package": "survex",
+    "oncran": true
+  },
+  {
+    "package": "triplot",
+    "oncran": true
+  },
+  {
+    "package": "vivo",
     "oncran": true
   }
 ]
