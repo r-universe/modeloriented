@@ -1,70 +1,6 @@
 [
   {
-    "package": "arenar",
-    "oncran": true
-  },
-  {
-    "package": "auditor",
-    "oncran": true
-  },
-  {
-    "package": "corrgrapher",
-    "oncran": true
-  },
-  {
-    "package": "DALEX",
-    "oncran": true
-  },
-  {
-    "package": "DALEXtra",
-    "oncran": true
-  },
-  {
-    "package": "drifter",
-    "oncran": true
-  },
-  {
-    "package": "EIX",
-    "oncran": true
-  },
-  {
-    "package": "fairmodels",
-    "oncran": true
-  },
-  {
-    "package": "iBreakDown",
-    "oncran": true
-  },
-  {
-    "package": "ingredients",
-    "oncran": true
-  },
-  {
-    "package": "live",
-    "oncran": true
-  },
-  {
-    "package": "localModel",
-    "oncran": true
-  },
-  {
     "package": "modelDown",
-    "oncran": true
-  },
-  {
-    "package": "modelStudio",
-    "oncran": true
-  },
-  {
-    "package": "randomForestExplainer",
-    "oncran": true
-  },
-  {
-    "package": "rSAFE",
-    "oncran": true
-  },
-  {
-    "package": "shapper",
     "oncran": true
   },
   {
@@ -72,11 +8,79 @@
     "oncran": true
   },
   {
-    "package": "triplot",
+    "package": "fairmodels",
     "oncran": true
   },
   {
     "package": "vivo",
+    "oncran": true
+  },
+  {
+    "package": "modelStudio",
+    "oncran": true
+  },
+  {
+    "package": "ingredients",
+    "oncran": true
+  },
+  {
+    "package": "drifter",
+    "oncran": true
+  },
+  {
+    "package": "iBreakDown",
+    "oncran": true
+  },
+  {
+    "package": "localModel",
+    "oncran": true
+  },
+  {
+    "package": "DALEX",
+    "oncran": true
+  },
+  {
+    "package": "corrgrapher",
+    "oncran": true
+  },
+  {
+    "package": "triplot",
+    "oncran": true
+  },
+  {
+    "package": "kernelshap",
+    "oncran": true
+  },
+  {
+    "package": "EIX",
+    "oncran": true
+  },
+  {
+    "package": "shapper",
+    "oncran": true
+  },
+  {
+    "package": "DALEXtra",
+    "oncran": true
+  },
+  {
+    "package": "rSAFE",
+    "oncran": true
+  },
+  {
+    "package": "auditor",
+    "oncran": true
+  },
+  {
+    "package": "randomForestExplainer",
+    "oncran": true
+  },
+  {
+    "package": "live",
+    "oncran": true
+  },
+  {
+    "package": "arenar",
     "oncran": true
   }
 ]
