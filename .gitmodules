@@ -93,6 +93,11 @@
 	url = https://github.com/modeloriented/shapper
 	shallow = true
 	registered = true
+[submodule "shapviz"]
+	path = shapviz
+	url = https://github.com/modeloriented/shapviz
+	shallow = true
+	registered = true
 [submodule "survex"]
 	path = survex
 	url = https://github.com/modeloriented/survex
