@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DALEX"]
+	path = DALEX
+	url = https://github.com/modeloriented/dalex
+[submodule "DALEXtra"]
+	path = DALEXtra
+	url = https://github.com/modeloriented/dalextra
+[submodule "EIX"]
+	path = EIX
+	url = https://github.com/modeloriented/eix
 [submodule "arenar"]
 	path = arenar
 	url = https://github.com/modeloriented/arenar
@@ -11,18 +20,9 @@
 [submodule "corrgrapher"]
 	path = corrgrapher
 	url = https://github.com/modeloriented/corrgrapher
-[submodule "DALEX"]
-	path = DALEX
-	url = https://github.com/modeloriented/dalex
-[submodule "DALEXtra"]
-	path = DALEXtra
-	url = https://github.com/modeloriented/dalextra
 [submodule "drifter"]
 	path = drifter
 	url = https://github.com/modeloriented/drifter
-[submodule "EIX"]
-	path = EIX
-	url = https://github.com/modeloriented/eix
 [submodule "fairmodels"]
 	path = fairmodels
 	url = https://github.com/modeloriented/fairmodels
@@ -47,12 +47,12 @@
 [submodule "modelStudio"]
 	path = modelStudio
 	url = https://github.com/modeloriented/modelstudio
-[submodule "randomForestExplainer"]
-	path = randomForestExplainer
-	url = https://github.com/modeloriented/randomforestexplainer
 [submodule "rSAFE"]
 	path = rSAFE
 	url = https://github.com/modeloriented/rsafe
+[submodule "randomForestExplainer"]
+	path = randomForestExplainer
+	url = https://github.com/modeloriented/randomforestexplainer
 [submodule "shapper"]
 	path = shapper
 	url = https://github.com/modeloriented/shapper
