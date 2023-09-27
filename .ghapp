@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["DALEX", "DALEXtra", "DrWhyTemplate", "fairmodels", "iBreakDown", "ingredients", "modelDown", "modelStudio", "triplot"]
+  "repositories": ["DALEX", "modelDown", "iBreakDown", "ingredients", "modelStudio", "DALEXtra", "DrWhyTemplate", "fairmodels", "triplot"]
 }
