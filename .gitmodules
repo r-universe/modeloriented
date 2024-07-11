@@ -26,6 +26,9 @@
 [submodule "fairmodels"]
 	path = fairmodels
 	url = https://github.com/modeloriented/fairmodels
+[submodule "hstats"]
+	path = hstats
+	url = https://github.com/modeloriented/hstats
 [submodule "iBreakDown"]
 	path = iBreakDown
 	url = https://github.com/modeloriented/ibreakdown
