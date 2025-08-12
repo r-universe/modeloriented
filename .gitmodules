@@ -17,9 +17,6 @@
 [submodule "auditor"]
 	path = auditor
 	url = https://github.com/modeloriented/auditor
-[submodule "corrgrapher"]
-	path = corrgrapher
-	url = https://github.com/modeloriented/corrgrapher
 [submodule "drifter"]
 	path = drifter
 	url = https://github.com/modeloriented/drifter
