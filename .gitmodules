@@ -65,9 +65,6 @@
 [submodule "treeshap"]
 	path = treeshap
 	url = https://github.com/modeloriented/treeshap
-[submodule "triplot"]
-	path = triplot
-	url = https://github.com/modeloriented/triplot
 [submodule "vivo"]
 	path = vivo
 	url = https://github.com/modeloriented/vivo
