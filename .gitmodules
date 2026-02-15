@@ -62,9 +62,6 @@
 [submodule "survex"]
 	path = survex
 	url = https://github.com/modeloriented/survex
-[submodule "treeshap"]
-	path = treeshap
-	url = https://github.com/modeloriented/treeshap
 [submodule "vivo"]
 	path = vivo
 	url = https://github.com/modeloriented/vivo
