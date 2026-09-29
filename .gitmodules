@@ -41,9 +41,6 @@
 [submodule "localModel"]
 	path = localModel
 	url = https://github.com/modeloriented/localmodel
-[submodule "modelDown"]
-	path = modelDown
-	url = https://github.com/modeloriented/modeldown
 [submodule "modelStudio"]
 	path = modelStudio
 	url = https://github.com/modeloriented/modelstudio
